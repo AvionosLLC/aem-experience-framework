@@ -23,7 +23,7 @@
     <parent>
         <groupId>com.avionos.aem.experienceframework</groupId>
         <artifactId>experience-framework</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.1.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -122,12 +122,12 @@
         <dependency>
             <groupId>com.avionos.aem.experienceframework</groupId>
             <artifactId>experience-framework.core</artifactId>
-            <version>0.1.0-SNAPSHOT</version>
+            <version>0.1.0</version>
         </dependency>
         <dependency>
             <groupId>com.avionos.aem.experienceframework</groupId>
             <artifactId>experience-framework.api</artifactId>
-            <version>0.1.0-SNAPSHOT</version>
+            <version>0.1.0</version>
         </dependency>
 
         <dependency>
